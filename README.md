@@ -1,2 +1,0 @@
-# gdal-samples
-TBD
